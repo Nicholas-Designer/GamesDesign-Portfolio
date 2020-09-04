@@ -23,7 +23,7 @@ I went to Coventry college for a total of 4 years starting from level 1 upwards 
 
 [Games Testing](https://github.com/Nicholas-Designer/GamesDesign-Portfolio/blob/master/Games-Testing.md)
 
-3D modeling 
+[3D modeling](https://github.com/Nicholas-Designer/GamesDesign-Portfolio/blob/master/3D-modeling.md) 
 
 3D Environments
 
