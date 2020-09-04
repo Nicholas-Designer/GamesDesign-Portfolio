@@ -4,7 +4,7 @@ Hello fellow gamesdesigners, let me introduce myself. My name is Nicholas Street
 ## College : Coventry College
 I went to Coventry college for a total of 4 years starting from level 1 upwards learning the basics they working my way up honing my skills of being a gamesdesigner.  
 
-# 2nd Year : 2016
+# 2nd Year  Started: 2017 Ended: 2018
 
 
 
@@ -13,7 +13,7 @@ I went to Coventry college for a total of 4 years starting from level 1 upwards 
 
 
 
-# 3rd Year : 2017 - 2019
+# 3rd Year  Started: 2018  Ended: 2019 
 
 
 
@@ -21,12 +21,12 @@ I went to Coventry college for a total of 4 years starting from level 1 upwards 
 
 ## Univercity: Staffordshire Univercity
 
-  # 1st Year: 2019 - 2020 
+  # 1st Year Started: 2019 Ended: 2020
   
   
   
   
-  # 2nd Year : 2020 - 2021
+  # 2nd Year Started: 2020 Ended:2021
 
 
 
