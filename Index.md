@@ -25,7 +25,7 @@ I went to Coventry college for a total of 4 years starting from level 1 upwards 
 
 [3D modeling](https://github.com/Nicholas-Designer/GamesDesign-Portfolio/blob/master/3D-modeling.md) 
 
-3D Environments
+[3D Environments](https://github.com/Nicholas-Designer/GamesDesign-Portfolio/blob/master/3D-Environments.md)
 
 
 
@@ -33,7 +33,10 @@ I went to Coventry college for a total of 4 years starting from level 1 upwards 
 ## Univercity: Staffordshire Univercity
 
   #  1st Year Started: 2019 Ended: 2020
-  
+  3D games Engine Creation
+  Rapid Games Prototyping
+  Games Desgin
+  Engine Creation
   
   
   
