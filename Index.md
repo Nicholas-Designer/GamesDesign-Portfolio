@@ -21,12 +21,12 @@ I went to Coventry college for a total of 4 years starting from level 1 upwards 
 
 ## Univercity: Staffordshire Univercity
 
-  # 1st Year Started: 2019 Ended: 2020
+  #  1st Year Started: 2019 Ended: 2020
   
   
   
   
-  # 2nd Year Started: 2020 Ended:2021
+  #  2nd Year Started: 2020 Ended:2021
 
 
 
