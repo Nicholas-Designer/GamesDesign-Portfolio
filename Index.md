@@ -8,7 +8,8 @@ I went to Coventry college for a total of 4 years starting from level 1 upwards 
 
 
 # 2nd Year  Started: 2017 Ended: 2018
-[Title](https://github.com/Nicholas-Designer/GamesDesign-Portfolio/blob/master/C-Year2.md)
+[2D Games Development](https://github.com/Nicholas-Designer/GamesDesign-Portfolio/blob/master/C-Year2.md)
+2D Game Production
 
 
 
@@ -17,7 +18,13 @@ I went to Coventry college for a total of 4 years starting from level 1 upwards 
 
 
 # 3rd Year  Started: 2018  Ended: 2019 
+Digital Games Production
 
+Games Testing
+
+3D modeling 
+
+3D Environments
 
 
 
