@@ -1,7 +1,7 @@
 ## Introduction
 Hello fellow gamesdesigners, let me introduce myself. My name is Nicholas Street and I'm a student at staffordshire univercity studying GamesDesign and Programming. In this website I will show you the projects that I've done through college , Univercity and Independently which I'm proud of showing you. My aim during the end of my 2nd year in Uni is to get a intership in the gaming industry. 
 
-## College
+## College : Coventry College
 I went to Coventry college for a total of 4 years starting from level 1 upwards learning the basics they working my way up honing my skills of being a gamesdesigner.  
 
 # 2nd Year : 2016
@@ -19,7 +19,7 @@ I went to Coventry college for a total of 4 years starting from level 1 upwards 
 
 
 
-## Univercity 
+## Univercity: Staffordshire Univercity
 
   # 1st Year: 2019 - 2020 
   
