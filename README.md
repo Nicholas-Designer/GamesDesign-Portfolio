@@ -1,6 +1,31 @@
 ## Introduction
+Hello fellow gamesdesigners, let me introduce myself. My name is Nicholas Street and I'm a student at staffordshire univercity studying GamesDesign and Programming. In this website I will show you the projects that I've done through college , Univercity and Independently which I'm proud of showing you. My aim during the end of my 2nd year in Uni is to get a intership in the gaming industry. 
 
-You can use the [editor on GitHub](https://github.com/Nicholas-Designer/GamesDesign-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## College
+
+# 2nd Year : 2016
+GamesDesign and web development level 2
+
+
+# 3rd Year : 2017 - 2018
+GamesDesign and Interactive media
+
+
+
+## Univercity 
+
+  # 1st Year: 2019 - 2020 
+  
+  
+  
+  
+  # 2nd Year : 2020 - 2021
+
+
+
+
+
+[editor on GitHub](https://github.com/Nicholas-Designer/GamesDesign-Portfolio/edit/master/README.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
